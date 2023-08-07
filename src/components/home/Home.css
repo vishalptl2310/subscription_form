@@ -1,0 +1,9 @@
+.main-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.create-btn {
+  width: 250px;
+  margin: 25px 0 25px 0;
+}

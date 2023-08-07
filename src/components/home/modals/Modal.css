@@ -1,0 +1,52 @@
+.cstm-modal-dialog {
+  float: right;
+  height: 100vh;
+  margin: 0px;
+  width: 500px;
+}
+.cstm-modal-dialog .modal-content {
+  height: 100vh;
+}
+.modal-body {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.input-label {
+  position: absolute;
+  font-size: 14px;
+  left: 22px;
+  top: -8px;
+  background-color: white;
+  padding: 0px 10px 0px 10px;
+}
+.field-container {
+  position: relative;
+  padding: 7px 0px 7px 0px;
+}
+.modal-body input {
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  letter-spacing: 1.5px;
+}
+.field-error {
+  color: red;
+}
+.slot-block {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.cstm-btn {
+  margin: 10px 0 10px 0;
+  padding: 9px;
+  background-color: #0d6efd;
+  color: white;
+}
+.delete-slot-btn {
+  border: none;
+  float: right;
+}
+.slot-title {
+  display: flex;
+  justify-content: center;
+}
